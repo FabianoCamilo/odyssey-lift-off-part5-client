@@ -1,6 +1,6 @@
 # Odyssey Lift-off V (Client): Road to production
 
-Welcome to the companion app of Odyssey Lift-off V (client)! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part5), Apollo's learning platform.
+Welcome to the companion app of Odyssey Lift-off V (client)! 
 
 You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/).
 
@@ -8,7 +8,6 @@ You can [find the server counterpart here](https://github.com/apollographql/odys
 
 ## How to use this repo
 
-The course will walk you step by step on how to implement the features you see in the demo app. This codebase is the starting point of your journey!
 
 This repo is the starting point of our React client application.
 
